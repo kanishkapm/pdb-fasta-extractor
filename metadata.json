@@ -1,0 +1,5 @@
+{
+  "name": "ProteinExplorer - PDB Search",
+  "description": "A sleek, scientific web application for retrieving detailed protein information, FASTA sequences, and structural metadata from the RCSB Protein Data Bank (PDB).",
+  "requestFramePermissions": []
+}
